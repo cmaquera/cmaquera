@@ -1,7 +1,7 @@
 ### Que onda gente!!! 👋
 
-- 🔭 Estoy trabajando en una pagina de presentacion personal
-- 🌱 Estoy queriendo aprender mas de docker y angular
+- 🔭 Actualmente estoy trabajando en una pagina de presentacion personal
+- 🌱 Deseo aprender mas de docker y angular
 - 🤔 Para mi trabajo final de la universidad necesito saber mas sobre ML
 - 📫 Este es mi correo cmaquerat@gmail.com
 - 😄 Cuento con un blog que no actualizo https://medium.com/cmaquera
