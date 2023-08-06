@@ -1,4 +1,7 @@
-### Hi there 👋
+### Que onda gente!!! 👋
+
+- 🔭 I’m currently working on kraken a web of personal presentation
+- 🌱 I’m currently learning docker, angular and spring boot
 
 <!--
 **cmaquera/cmaquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
