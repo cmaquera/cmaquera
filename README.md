@@ -1,7 +1,11 @@
 ### Que onda gente!!! 👋
 
-- 🔭 I’m currently working on kraken a web of personal presentation
-- 🌱 I’m currently learning docker, angular and spring boot
+- 🔭 Estoy trabajando en una pagina de presentacion personal
+- 🌱 Estoy queriendo aprender mas de docker y angular
+- 🤔 Para mi trabajo final de la universidad necesito saber mas sobre ML
+- 📫 Este es mi correo cmaquerat@gmail.com
+- 😄 Cuento con un blog que no actualizo https://medium.com/cmaquera
+- ⚡ Me gusta los videojuegos 
 
 <!--
 **cmaquera/cmaquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
